@@ -13,6 +13,8 @@
 <nav>
     <a href="<?= url('') ?>">Inicio</a>
     <a href="<?= url('products') ?>">Products</a>
+    <a href="<?= url('usuarios') ?>">Usuarios</a>
+    <a href="<?= url('roles') ?>">Roles</a>
     <!-- MENU -->
 </nav>
 
