@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+/vendor/
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+.gitkeep
+1_crear_proyecto.php
+2_generar_crud.php
+Pasos.txt
+README.md
+/bin/
